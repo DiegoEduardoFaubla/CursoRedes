@@ -37,6 +37,11 @@ st.image(imagen1,width=400)
 
 st.header(f"Para mas información visita nuestras redes sociales 📱")
 
+st.write("[Instagram >] (https://www.instagram.com/computersocietyespoch/)")
+st.write("[Youtube >] (https://www.youtube.com/@ComputerSocietyESPOCH)")
+st.write("[Facebook >] (https://www.youtube.com/@DiegoFaubla)")
+st.write("[TikTok >] (https://www.youtube.com/@DiegoFaubla)")
+
 with st.container():            
     st.markdown("<br><br>", unsafe_allow_html=True) # Espacio final
     st.caption("© 2025-2026 IEEE Computer Society.")
