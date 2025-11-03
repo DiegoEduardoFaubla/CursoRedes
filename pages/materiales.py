@@ -58,7 +58,7 @@ st.write("[Pulsa aquí para descargar la presentación del módulo 16](https://w
 st.write("[Pulsa aquí para descargar la presentación del módulo 17](https://www.youtube.com/@DiegoFaubla)")
 
 st.subheader("Clases")
-st.write("[Para ver las clases, pulsa en el siguiente link >] (https://www.youtube.com/@DiegoFaubla)")
+st.write("[Para ver las clases, pulsa en el siguiente link >] (https://www.youtube.com/@ComputerSocietyESPOCH)")
 
 with st.container():            
     st.markdown("<br><br>", unsafe_allow_html=True) # Espacio final
