@@ -36,7 +36,7 @@ st.markdown("""
 st.image(imagen1,width=400)
 
 st.header(f"Estas en descargas 💽")
-st.subheader(f"Hallaras los laboratorios que te ayudarán a poner en práctica lo aprendido.")
+st.subheader(f"Hallarás los laboratorios que te ayudarán a poner en práctica lo aprendido.")
 
 st.write("[Pulsa aquí para descargar los laboratorios del módulo 1](https://www.youtube.com/@DiegoFaubla)")
 st.write("[Pulsa aquí para descargar los laboratorios del módulo 2](https://www.youtube.com/@DiegoFaubla)")
