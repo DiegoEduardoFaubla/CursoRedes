@@ -39,7 +39,7 @@ st.header(f"Para mas información visita nuestras redes sociales 📱")
 
 st.write("[Instagram >] (https://www.instagram.com/computersocietyespoch/)")
 st.write("[Youtube >] (https://www.youtube.com/@ComputerSocietyESPOCH)")
-st.write("[Facebook >] (https://www.youtube.com/@DiegoFaubla)")
+st.write("[Facebook >] (https://www.facebook.com/profile.php?id=61583790411433)")
 st.write("[TikTok >] (https://www.youtube.com/@DiegoFaubla)")
 
 with st.container():            
