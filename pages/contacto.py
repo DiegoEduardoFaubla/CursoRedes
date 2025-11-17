@@ -40,7 +40,7 @@ st.header(f"Para mas información visita nuestras redes sociales 📱")
 st.write("[Instagram >] (https://www.instagram.com/computersocietyespoch/)")
 st.write("[Youtube >] (https://www.youtube.com/@ComputerSocietyESPOCH)")
 st.write("[Facebook >] (https://www.facebook.com/profile.php?id=61583790411433)")
-st.write("[TikTok >] (https://www.youtube.com/@DiegoFaubla)")
+st.write("[TikTok >] (https://www.tiktok.com/@cs_espoch?is_from_webapp=1&sender_device=pc)")
 
 with st.container():            
     st.markdown("<br><br>", unsafe_allow_html=True) # Espacio final
