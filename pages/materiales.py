@@ -39,7 +39,7 @@ st.image(imagen1,width=400)
 st.header(f"Aquí podrás obtener los materiales que te brindarán conocimiento 📚")
 
 st.subheader("Láminas")
-st.write("[Pulsa aquí para descargar la presentación del módulo 1](https://www.youtube.com/@DiegoFaubla)")
+st.write("[Pulsa aquí para descargar la presentación del módulo 1](https://liveespochedu-my.sharepoint.com/:f:/g/personal/diegoe_faubla_espoch_edu_ec/IgB5pLmUyH2YQZOfNBoY-s52AQS-yIOp9KnkJWJb-pUeUis?e=Ob8pHv)")
 st.write("[Pulsa aquí para descargar la presentación del módulo 2](https://www.youtube.com/@DiegoFaubla)")
 st.write("[Pulsa aquí para descargar la presentación del módulo 3](https://www.youtube.com/@DiegoFaubla)")
 st.write("[Pulsa aquí para descargar la presentación del módulo 4](https://www.youtube.com/@DiegoFaubla)")
