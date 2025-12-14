@@ -17,7 +17,7 @@ lottie_coding1 = load_lottieurl("https://assets3.lottiefiles.com/packages/lf20_0
 #Imagenes a usar
 imagen1 = Image.open("CS.jpeg")
 imagen2 = Image.open("inicio.jpg")
-imagen3 = Image.open("instructor4.png")
+imagen3 = Image.open("instructor6.png")
 
 st.markdown("""
     <style>
