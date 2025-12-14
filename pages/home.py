@@ -107,7 +107,7 @@ with st.container():
         st.write("""Si te interesa aprender sobre redes, seguridad o tecnologías emergentes, te invito a conocer mi canal donde subo material educativo, donde combino teoría y práctica para ofrecer una experiencia de aprendizaje clara, aplicada y actualizada. """)        
         st.write("[Youtube >] (https://www.youtube.com/@DiegoFaubla)")
     with right_column:
-            st.image(imagen3,width=400)
+            st.image(imagen3,width=450)
 
 with st.container():            
     st.markdown("<br><br>", unsafe_allow_html=True) # Espacio final
