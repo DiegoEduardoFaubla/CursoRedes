@@ -97,7 +97,7 @@ with st.container():
     with left_column:
         st.header("Diego Faubla")
         st.subheader("Estudiante de Ingeniería en Electrónica, Telecomunicaciones y Redes en la ESPOCH")
-        st.info("Tesorero de la Rama IEEE Computer Society ESPOCH")
+        st.info("Presidente de la Rama IEEE Computer Society ESPOCH")
         st.success("Creador Digital de temas relacionados a las Telecomunicaciones.")
         st.subheader("Sobre mí")
         st.write("""Soy un estudiante apasionado por las redes de datos y la seguridad informática, con ya algunos años de experiencia aprendiendo y practicando en estos campos.
